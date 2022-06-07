@@ -485,7 +485,7 @@ h6 {
     background-position-y: center;
     overflow: hidden;
     position: relative;
-    min-height: 750px;
+    min-height: 350px;
 }
 
 @media (min-width: 1024px) {
@@ -504,7 +504,7 @@ h6 {
 }
 
 #hero .hero-container {
-    background-image: url("../img/clouds-sun.png");
+    background-image: url("../img/clouds-sun.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;
@@ -519,7 +519,6 @@ h6 {
     flex-direction: column;
     text-align: center;
     padding: 0 15px;
-    min-height: 750px;
 }
 
 @media (max-width: 991px) {
@@ -618,11 +617,8 @@ h6 {
 # About Section
 --------------------------------------------------------------*/
 #about {
-    /* background: url("../img/about-bg.jpg"); */
-    background-size: cover;
     overflow: hidden;
     position: relative;
-    color: #fff;
     padding: 60px 0 40px 0;
 }
 
@@ -634,7 +630,6 @@ h6 {
 
 #about:before {
     content: "";
-    background: white;
     position: absolute;
     bottom: 0;
     top: 0;
