@@ -933,21 +933,24 @@ h6 {
 }
 
 #supporters .supporters-wrap {
-    border-top: 1px solid #e0e5fa;
-    border-left: 1px solid #e0e5fa;
     margin-bottom: 30px;
+    justify-content: center;
 }
 
 #supporters .supporter-logo {
     padding: 30px;
+    margin-bottom: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-right: 1px solid #e0e5fa;
-    border-bottom: 1px solid #e0e5fa;
+    border: 1px solid #e0e5fa;
     overflow: hidden;
-    background: rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 1);
     height: 160px;
+}
+
+#supporters .silver {
+    height: 120px;
 }
 
 #supporters .supporter-logo:hover img {
