@@ -174,7 +174,8 @@ h6 {
     display: none;
 }
 
-#header.header-scrolled #logo img {
+#header.header-fixed #logo img,
+    #header.header-scrolled #logo img {
     display: block;
     height: 70px;
 }
@@ -768,6 +769,10 @@ h6 {
     margin-bottom: 10px;
 }
 
+#speakers-details img {
+    max-width: 400px;
+}
+
 /*--------------------------------------------------------------
 # Schedule Section
 --------------------------------------------------------------*/
@@ -828,6 +833,14 @@ h6 {
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 5px;
+}
+
+#schedule .schedule-item h4 a {
+    color: #0e1b4d;
+}
+
+#schedule .schedule-item h4 a:hover {
+    color: #E74C3C;
 }
 
 #schedule .schedule-item h4 span {
