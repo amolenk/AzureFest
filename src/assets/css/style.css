@@ -811,6 +811,7 @@ h6 {
 #schedule .schedule-item time {
     padding-bottom: 5px;
     display: inline-block;
+    width: 100px;
 }
 
 #schedule .schedule-item .speaker {
