@@ -1,0 +1,418 @@
+[
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2000.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2000.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2001.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2001.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2002.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2002.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2003.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2003.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2004.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2004.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2005.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2005.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2006.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2006.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2007.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2007.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2008.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2008.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2009.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2009.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2010.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2010.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2011.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2011.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2012.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2012.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2013.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2013.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2014.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2014.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2015.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2015.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2016.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2016.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2017.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2017.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2018.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2018.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2019.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2019.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2020.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2020.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2021.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2021.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2022.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2022.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2023.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2023.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2024.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2024.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2025.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2025.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2026.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2026.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2027.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2027.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2028.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2028.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2029.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2029.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2030.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2030.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2031.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2031.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2032.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2032.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2033.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2033.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2034.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2034.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2035.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2035.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2036.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2036.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2037.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2037.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2038.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2038.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2039.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2039.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2040.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2040.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2041.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2041.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2042.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2042.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2043.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2043.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2044.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2044.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2045.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2045.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2046.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2046.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2047.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2047.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2048.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2048.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2049.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2049.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2050.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2050.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2051.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2051.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2052.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2052.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2053.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2053.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2054.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2054.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2055.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2055.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2056.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2056.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2057.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2057.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2058.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2058.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2059.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2059.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2060.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2060.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2061.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2061.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2062.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2062.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2063.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2063.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2064.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2064.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2065.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2065.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2066.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2066.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2067.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2067.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2068.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2068.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2069.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2069.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2070.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2070.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2071.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2071.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2072.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2072.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2073.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2073.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2074.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2074.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2075.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2075.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2076.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2076.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2077.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2077.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2078.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2078.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2079.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2079.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2080.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2080.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2081.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2081.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2082.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2082.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2083.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2083.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2084.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2084.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2085.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2085.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2086.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2086.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2087.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2087.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2088.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2088.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2089.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2089.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2090.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2090.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2091.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2091.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2092.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2092.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2093.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2093.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2094.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2094.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2095.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2095.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2096.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2096.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2097.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2097.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2098.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2098.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2099.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2099.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2100.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2100.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2101.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2101.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2102.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2102.JPG"
+  },
+  {
+    "thumb": "https://azurefestphotos.blob.core.windows.net/2023/thumb/20230913.AzureFest.2103.jpg",
+    "image": "https://azurefestphotos.blob.core.windows.net/2023/image/20230913.AzureFest.2103.JPG"
+  }
+]

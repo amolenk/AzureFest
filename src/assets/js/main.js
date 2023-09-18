@@ -209,6 +209,18 @@
     selector: '.gallery-lightbox'
   });
 
+  // Load photos into Galleria
+  fetch('photos.json')
+    .then(response => {
+        return response.json();
+    })
+    .then(data => {
+       Galleria.run('.galleria', {
+         dataSource: data,
+         imageCrop: false
+       });
+    });
+
   /**
    * Buy tickets select the ticket type on click
    */
