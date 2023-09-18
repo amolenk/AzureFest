@@ -627,9 +627,17 @@ h6 {
 
 .galleria
 {
-    width: 100%;
+    width: 600px;
     height: 400px;
-    background: #000
+    background: #fff
+}
+
+@media (max-width: 700px) {
+    .galleria
+    {
+        width: 300px;
+        height: 200px;
+    }
 }
 
 /*--------------------------------------------------------------
